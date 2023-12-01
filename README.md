@@ -1,4 +1,4 @@
-#ScSmOP installation
+# ScSmOP installation
 
 ## 1. Successful installation
 
